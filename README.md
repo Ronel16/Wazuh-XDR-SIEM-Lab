@@ -56,7 +56,7 @@ Installation
 
     # Sur Debian/Ubuntu
     curl -so wazuh-agent.deb https://packages.wazuh.com/4.x/apt/pool/main/w/wazuh-agent/wazuh-agent_4.7.3-1_amd64.deb
-    WAZUH_MANAGER='192.168.2.10' dpkg -i wazuh-agent.deb
+    WAZUH_MANAGER='ip du conteneur' dpkg -i wazuh-agent.deb
 
 🛡️ Configuration
 Règles Yara
@@ -97,6 +97,7 @@ Le projet inclut plusieurs tableaux de bord préconfigurés:
     Guide d'installation
     Guide de configuration
 
+
 🔄 Maintenance
 
 Instructions pour:
@@ -105,9 +106,6 @@ Instructions pour:
     Sauvegarde de la configuration
     Mise à jour des composants
 
-📝 Licence
-
-Ce projet est disponible sous licence MIT - voir le fichier LICENSE pour plus de détails.
 
 📧 Contact
 
