@@ -20,6 +20,7 @@ Ce projet vise à créer un laboratoire de cybersécurité complet permettant la
 
 L'architecture se compose de plusieurs composants:
 
+
 ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
 │    Agent        │     │  Wazuh Manager  │     │  Elasticsearch  │
 │   (Proxmox)     │────▶│  (Monitoring)   │────▶│    (Storage)    │
