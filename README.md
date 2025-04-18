@@ -29,7 +29,7 @@ L'architecture se compose de plusieurs composants:
                                                         ▼
                                                ┌─────────────────┐
                                                │     Kibana      │
-                                               │  (Visualization) │
+                                               │ (Visualization) │
                                                └─────────────────┘
 ```
 
