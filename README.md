@@ -44,15 +44,12 @@ Installation
 
     Déploiement du Manager Wazuh
 
-    bash
 
     git clone https://github.com/wazuh/wazuh-docker.git
     cd wazuh-docker
     docker-compose up -d
 
     Installation des agents
-
-    bash
 
     # Sur Debian/Ubuntu
     curl -so wazuh-agent.deb https://packages.wazuh.com/4.x/apt/pool/main/w/wazuh-agent/wazuh-agent_4.7.3-1_amd64.deb
