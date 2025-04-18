@@ -1,9 +1,11 @@
 Laboratoire XDR/SIEM avec Wazuh
 
 Ce repository contient la documentation et les configurations pour le déploiement d'une solution XDR/SIEM basée sur Wazuh, déployée sur Proxmox avec intégration de règles Yara et Sigma.
+
 📋 Aperçu du projet
 
 Ce projet vise à créer un laboratoire de cybersécurité complet permettant la détection et la réponse aux menaces. Il utilise Wazuh comme plateforme centrale pour la gestion des événements de sécurité, l'analyse des vulnérabilités et la réponse automatisée aux incidents.
+
 🔧 Technologies utilisées
 
     Wazuh - Plateforme open-source pour la sécurité et la conformité
