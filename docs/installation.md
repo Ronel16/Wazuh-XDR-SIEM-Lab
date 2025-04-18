@@ -2,6 +2,7 @@ Guide d'installation
 
 Ce document détaille les étapes d'installation et de configuration d'une solution XDR/SIEM complète basée sur Wazuh.
 Installation du serveur Wazuh
+
 Méthode 1: Déploiement avec Docker (recommandée)
 
     Prérequis
